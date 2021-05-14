@@ -20,25 +20,40 @@ BaaS hướng đến thiết bị chủ yếu là mobile nên còn được gọ
 
 ### Giới thiệu các dịch cụ của Firebase
 
-#### Firebase Analytics
+#### Firebase Authentication
+
+#### Firebase FireStore
+
+#### Firebase Realtime Database
+
+#### Firebase Storage
 
 #### Firebase Hosting
 
-#### Firebase Authentication
+#### Firebase Functions
 
-#### Firebase Cloud Messaging
+#### Firebase Machine Learning
 
-#### Firebase Cloud Storage
+#### Firebase Crashlytics
 
-#### Firebase Remote Config
+#### Firebase Performance Monitoring
 
 #### Firebase Test Lab
 
-#### Firebase App Indexing
+#### Google アナリティクス
+
+#### Firebase Predictions
+
+#### Firebase A/B Testing
+
+#### Firebase Cloud Messaging
+
+#### Firebase Remote Config
 
 #### Firebase Dynamic Links
 
-#### Firebase console
+#### Firebase App Indexing
 
+#### 
 
 ### Demo sử dụng Firebase để hosting webapp
